@@ -1,0 +1,33 @@
+# clave|texto de búsqueda en Wikimedia Commons. Cambia la búsqueda o fija un archivo con File:Nombre.jpg
+illescas|Illescas Toledo
+santa-maria|Iglesia de Santa María Illescas
+torre-mudejar|Torre mudéjar Illescas Santa María
+caridad|Santuario Nuestra Señora de la Caridad Illescas
+ugena|Arco de Ugena Illescas
+concepcionistas|Convento Concepcionistas Illescas
+greco-ildefonso|El Greco San Ildefonso Illescas
+greco-caridad|El Greco Virgen de la Caridad Illescas
+greco-coronacion|El Greco Coronación de la Virgen Illescas
+greco-retrato|El Greco retrato caballero anciano
+francisco-i|Francis I of France Jean Clouet portrait
+leonor|Leonor de Austria reina de Francia retrato
+maria-pacheco|María Pacheco comunera
+comuneros|Ejecución de los comuneros de Castilla Gisbert
+alfonso7|Alfonso VII de León Tumbo A
+carta-puebla|carta puebla pergamino siglo XII
+juan2|Juan II de Castilla retrato
+lope|Lope de Vega retrato
+tirso|Tirso de Molina retrato
+gregorio13|Pope Gregory XIII portrait
+felipe-jesus|San Felipe de Jesús
+ptolomeo|Ptolemy Geographia Hispania map
+calcolitico|cerámica campaniforme Calcolítico
+silos|silo prehistórico excavación arqueológica
+ensenada|Marqués de la Ensenada retrato
+semanario|Semanario Pintoresco Español
+azorin|Azorín José Martínez Ruiz
+guerra-civil|Guerra Civil Española Toledo 1936
+guadalupe|Monasterio de Guadalupe claustro mudéjar
+cisneros|Cardenal Cisneros retrato
+zog|Leka I of Albania
+puente|puente medieval ladrillo Toledo
